@@ -1,5 +1,5 @@
 spring:
   data:
     elasticsearch:
-      cluster-name: elasticsearch #默认即为 elasticsearch
-      cluster-nodes: 127.0.0.1:9300 #配置es节点信息，逗号分隔，如果没有指定，则启动ClientNode
+      cluster-name: elasticsearch # 榛樿鍗充负 elasticsearch
+      cluster-nodes: 127.0.0.1:9300 # 閰嶇疆es鑺傜偣淇℃伅锛岄�楀彿鍒嗛殧锛屽鏋滄病鏈夋寚瀹氾紝鍒欏惎鍔–lientNode
